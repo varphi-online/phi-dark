@@ -1,21 +1,26 @@
 {
-  "name": "phi-dark-theme",
-  "displayName": "Phi Dark Theme",
-  "description": "A VS Code theme based on Astronvim's astrodark theme. With most token highlighting coming from Github's Dark Dimmed theme. Exceptions are as I add them.",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.92.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Phi Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Phi Dark-color-theme.json"
-      }
-    ]
-  }
+	"name": "phi-dark-theme",
+	"displayName": "Phi Dark Theme",
+	"publisher": "varphi-online",
+	"description": "A VS Code theme based on Astronvim's astrodark theme. With most token highlighting coming from Github's Dark Dimmed theme. Exceptions are as I add them.",
+	"version": "0.0.2",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/varphi-online/phi-dark"
+	},
+	"license": "LICENSE.txt",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.92.0"
+	},
+	"categories": ["Themes"],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Phi Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Phi Dark-color-theme.json"
+			}
+		]
+	}
 }

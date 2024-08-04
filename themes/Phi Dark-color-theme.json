@@ -297,7 +297,7 @@
 			  "markup.underline"
 			],
 			"settings": {
-			  "fontStyle": "underline"
+			  //"fontStyle": "underline"
 			}
 		  },
 		  {

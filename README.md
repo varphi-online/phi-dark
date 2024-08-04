@@ -5,6 +5,10 @@ A VS Code theme based on Astronvim's astrodark and Github's Dark Dimmed
 ![Phi Dark Example](https://github.com/user-attachments/assets/708a8717-d9b2-432d-b13e-a938e1f2794b)
 
 ## Install
+Download .VSIX from the releases page and install
+
+### Or
+
 1. Download source into a folder named ```phi-dark-theme```
 2. Move folder into your user extensions directory:
     - Windows:
